@@ -1,0 +1,44 @@
+로그인 안되어있을떄
+
+로그인
+회원가입
+자가진단
+참고문헌(정보사이트 (DB,노드JS,자바스크립트) )
+컨텍트
+
+
+로그아웃
+마이페이지
+자가진단
+참고문헌
+컨텍트
+
+
+자가진단안에
+전신(피부/전신)	whole body
+머리/목 head/neck
+상체(복부/가슴/팔/등/척추) upper body
+하체(골반/다리)	lower body
+
+
+
+결과창
+
+
+
+
+
+데이터는 csv형태로 전신,머리,상체,하체 데이터
+
+
+
+데이터베이스 컬렉션
+유저 정보 테이블
+의학정보 테이블
+
+
+
+
+A disease self diagnosis system using clustering method
+
+SDS

@@ -1,0 +1,20 @@
+대문자
+
+mongoimport --db software --collection Alls --type json all.json
+mongoimport --db software --collection Head/Necks --type json headneck.json
+mongoimport --db software --collection Uppers --type json upper.json
+mongoimport --db software --collection Lowers --type json lower.json
+mongoimport --db software --collection Wholes --type json whole.json
+
+
+소문자
+
+mongoimport --db software --collection alls --type json all.json
+mongoimport --db software --collection head/necks --type json headneck.json
+mongoimport --db software --collection uppers --type json upper.json
+mongoimport --db software --collection lowers --type json lower.json
+mongoimport --db software --collection wholes --type json whole.json
+
+
+
+mongoexport --db software --collection accounts --out accounts.json
